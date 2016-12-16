@@ -15,10 +15,6 @@ log = log --oneline --decorate --graph
 loga = log --oneline --decorate --graph --all
 mpush = push -u origin master
 
-
-[user]
-#name = wangliang24
-#email = wangliang24@baidu.com
 [color]
 ui = auto
 #[push]
@@ -26,3 +22,6 @@ ui = auto
 ##[merge]
 ##mergetool = vimdiff
 #
+[user]
+	email = aoyoo.po@gmail.com
+	name = aoyoo
