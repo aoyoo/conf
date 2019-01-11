@@ -1,0 +1,10 @@
+[basic]
+mail_from = app@app.com
+mail_to = app@app.com, hpb-tech-video@app.com, cv-st@app.com, yangxu07@app.com, feed-data-qa@app.com, data-c@app.com
+phone_to = 13888888888
+
+dns = app.app.all
+
+[monitor_files]
+data/index
+
